@@ -1,0 +1,7 @@
+run:
+
+ Entrer le nombre :
+15
+
+La somme des 15 entiers est: 120
+BUILD SUCCESSFUL (total time: 5 seconds)
